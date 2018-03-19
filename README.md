@@ -1,0 +1,1 @@
+## 一个 JSON 序列化模块，支持 Date, Buffer 等类型属性
